@@ -1,0 +1,7 @@
+D:\GL\DAY 3\DAY3 projects\arraysdemo\bin\Debug\arraysdemo.exe.config
+D:\GL\DAY 3\DAY3 projects\arraysdemo\bin\Debug\arraysdemo.exe
+D:\GL\DAY 3\DAY3 projects\arraysdemo\bin\Debug\arraysdemo.pdb
+D:\GL\DAY 3\DAY3 projects\arraysdemo\obj\Debug\arraysdemo.csproj.AssemblyReference.cache
+D:\GL\DAY 3\DAY3 projects\arraysdemo\obj\Debug\arraysdemo.csproj.CoreCompileInputs.cache
+D:\GL\DAY 3\DAY3 projects\arraysdemo\obj\Debug\arraysdemo.exe
+D:\GL\DAY 3\DAY3 projects\arraysdemo\obj\Debug\arraysdemo.pdb

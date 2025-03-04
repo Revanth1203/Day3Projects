@@ -1,0 +1,7 @@
+D:\GL\DAY 3\DAY3 projects\mutliDemo\bin\Debug\mutliDemo.exe.config
+D:\GL\DAY 3\DAY3 projects\mutliDemo\bin\Debug\mutliDemo.exe
+D:\GL\DAY 3\DAY3 projects\mutliDemo\bin\Debug\mutliDemo.pdb
+D:\GL\DAY 3\DAY3 projects\mutliDemo\obj\Debug\mutliDemo.csproj.AssemblyReference.cache
+D:\GL\DAY 3\DAY3 projects\mutliDemo\obj\Debug\mutliDemo.csproj.CoreCompileInputs.cache
+D:\GL\DAY 3\DAY3 projects\mutliDemo\obj\Debug\mutliDemo.exe
+D:\GL\DAY 3\DAY3 projects\mutliDemo\obj\Debug\mutliDemo.pdb

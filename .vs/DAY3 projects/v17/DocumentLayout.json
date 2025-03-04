@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GL\\DAY 3\\DAY3 projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C6E3E6-01E3-4675-97A2-09C1957F9EB1}|ClassLibrary1\\ClassLibrary1.csproj|d:\\gl\\day 3\\day3 projects\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C6E3E6-01E3-4675-97A2-09C1957F9EB1}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E925CF-039D-4078-B2AB-0F26068996DC}|accessmodDemo\\accessmodDemo.csproj|d:\\gl\\day 3\\day3 projects\\accessmoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E925CF-039D-4078-B2AB-0F26068996DC}|accessmodDemo\\accessmodDemo.csproj|solutionrelative:accessmoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9154BD7F-8554-4F74-97AF-C86B25F7E5BF}|jaggedarray\\jaggedarray.csproj|d:\\gl\\day 3\\day3 projects\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9154BD7F-8554-4F74-97AF-C86B25F7E5BF}|jaggedarray\\jaggedarray.csproj|solutionrelative:jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDB0692-BC21-4A2F-8885-66C21ACF5FBB}|stringBuliderDemo\\stringBuliderDemo.csproj|d:\\gl\\day 3\\day3 projects\\stringbuliderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDB0692-BC21-4A2F-8885-66C21ACF5FBB}|stringBuliderDemo\\stringBuliderDemo.csproj|solutionrelative:stringbuliderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D06689-7928-40D3-8CD7-8CD4B1FB1304}|arraysdemo\\arraysdemo.csproj|d:\\gl\\day 3\\day3 projects\\arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D06689-7928-40D3-8CD7-8CD4B1FB1304}|arraysdemo\\arraysdemo.csproj|solutionrelative:arraysdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFE63B2-3D50-4711-AFAA-A178BE77D806}|mutliDemo\\mutliDemo.csproj|d:\\gl\\day 3\\day3 projects\\mutlidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFE63B2-3D50-4711-AFAA-A178BE77D806}|mutliDemo\\mutliDemo.csproj|solutionrelative:mutlidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GL\\DAY 3\\DAY3 projects\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\GL\\DAY 3\\DAY3 projects\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:21:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GL\\DAY 3\\DAY3 projects\\accessmodDemo\\Program.cs",
+              "RelativeDocumentMoniker": "accessmodDemo\\Program.cs",
+              "ToolTip": "D:\\GL\\DAY 3\\DAY3 projects\\accessmodDemo\\Program.cs",
+              "RelativeToolTip": "accessmodDemo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:56:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GL\\DAY 3\\DAY3 projects\\stringBuliderDemo\\Program.cs",
+              "RelativeDocumentMoniker": "stringBuliderDemo\\Program.cs",
+              "ToolTip": "D:\\GL\\DAY 3\\DAY3 projects\\stringBuliderDemo\\Program.cs",
+              "RelativeToolTip": "stringBuliderDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:58:21.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GL\\DAY 3\\DAY3 projects\\jaggedarray\\Program.cs",
+              "RelativeDocumentMoniker": "jaggedarray\\Program.cs",
+              "ToolTip": "D:\\GL\\DAY 3\\DAY3 projects\\jaggedarray\\Program.cs",
+              "RelativeToolTip": "jaggedarray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:22:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GL\\DAY 3\\DAY3 projects\\mutliDemo\\Program.cs",
+              "RelativeDocumentMoniker": "mutliDemo\\Program.cs",
+              "ToolTip": "D:\\GL\\DAY 3\\DAY3 projects\\mutliDemo\\Program.cs",
+              "RelativeToolTip": "mutliDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:00:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GL\\DAY 3\\DAY3 projects\\arraysdemo\\Program.cs",
+              "RelativeDocumentMoniker": "arraysdemo\\Program.cs",
+              "ToolTip": "D:\\GL\\DAY 3\\DAY3 projects\\arraysdemo\\Program.cs",
+              "RelativeToolTip": "arraysdemo\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:30:19.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

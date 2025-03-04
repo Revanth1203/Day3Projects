@@ -1,0 +1,7 @@
+D:\GL\DAY 3\DAY3 projects\jaggedarray\bin\Debug\jaggedarray.exe.config
+D:\GL\DAY 3\DAY3 projects\jaggedarray\bin\Debug\jaggedarray.exe
+D:\GL\DAY 3\DAY3 projects\jaggedarray\bin\Debug\jaggedarray.pdb
+D:\GL\DAY 3\DAY3 projects\jaggedarray\obj\Debug\jaggedarray.csproj.AssemblyReference.cache
+D:\GL\DAY 3\DAY3 projects\jaggedarray\obj\Debug\jaggedarray.csproj.CoreCompileInputs.cache
+D:\GL\DAY 3\DAY3 projects\jaggedarray\obj\Debug\jaggedarray.exe
+D:\GL\DAY 3\DAY3 projects\jaggedarray\obj\Debug\jaggedarray.pdb

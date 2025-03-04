@@ -1,0 +1,10 @@
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\obj\Debug\accessmodDemo.csproj.AssemblyReference.cache
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\obj\Debug\accessmodDemo.csproj.CoreCompileInputs.cache
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\bin\Debug\accessmodDemo.exe.config
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\bin\Debug\accessmodDemo.exe
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\bin\Debug\accessmodDemo.pdb
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\bin\Debug\ClassLibrary1.dll
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\bin\Debug\ClassLibrary1.pdb
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\obj\Debug\accessmo.CCD69EFD.Up2Date
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\obj\Debug\accessmodDemo.exe
+D:\GL\DAY 3\DAY3 projects\accessmodDemo\obj\Debug\accessmodDemo.pdb

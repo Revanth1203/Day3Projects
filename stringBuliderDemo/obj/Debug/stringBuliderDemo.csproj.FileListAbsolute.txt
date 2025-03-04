@@ -1,0 +1,7 @@
+D:\GL\DAY 3\DAY3 projects\stringBuliderDemo\obj\Debug\stringBuliderDemo.csproj.AssemblyReference.cache
+D:\GL\DAY 3\DAY3 projects\stringBuliderDemo\obj\Debug\stringBuliderDemo.csproj.CoreCompileInputs.cache
+D:\GL\DAY 3\DAY3 projects\stringBuliderDemo\bin\Debug\stringBuliderDemo.exe.config
+D:\GL\DAY 3\DAY3 projects\stringBuliderDemo\bin\Debug\stringBuliderDemo.exe
+D:\GL\DAY 3\DAY3 projects\stringBuliderDemo\bin\Debug\stringBuliderDemo.pdb
+D:\GL\DAY 3\DAY3 projects\stringBuliderDemo\obj\Debug\stringBuliderDemo.exe
+D:\GL\DAY 3\DAY3 projects\stringBuliderDemo\obj\Debug\stringBuliderDemo.pdb
