@@ -1,0 +1,7 @@
+D:\GL\DAY 4\Day 4 Projects\virtualfndemo\bin\Debug\virtualfndemo.exe.config
+D:\GL\DAY 4\Day 4 Projects\virtualfndemo\bin\Debug\virtualfndemo.exe
+D:\GL\DAY 4\Day 4 Projects\virtualfndemo\bin\Debug\virtualfndemo.pdb
+D:\GL\DAY 4\Day 4 Projects\virtualfndemo\obj\Debug\virtualfndemo.csproj.AssemblyReference.cache
+D:\GL\DAY 4\Day 4 Projects\virtualfndemo\obj\Debug\virtualfndemo.csproj.CoreCompileInputs.cache
+D:\GL\DAY 4\Day 4 Projects\virtualfndemo\obj\Debug\virtualfndemo.exe
+D:\GL\DAY 4\Day 4 Projects\virtualfndemo\obj\Debug\virtualfndemo.pdb
